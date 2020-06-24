@@ -1,5 +1,6 @@
 # printPrimNum
-Write a function to print out all prime numbers in a given range (exclude the upper bound). Each testcase is described as follow:
+Write a function to print out all prime numbers in a given range (exclude the upper bound). 
+Each testcase is described as follow:
 Input: N M
 0 <= N <= 1000
 0 <= M <= 1000
